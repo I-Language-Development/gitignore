@@ -1,7 +1,4 @@
 # See https://i-language-rust.readthedocs.io/en/latest/ILEPs/Intro/011/#.gitignore
 
 # Build output
-build/
-
-# Autodoc output
-output/
+out/
